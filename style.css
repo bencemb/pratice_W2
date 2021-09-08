@@ -3,21 +3,13 @@ body{
     background-color:  #f2f2f2;
 }
 #root{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    
-
     max-width: 1200px;
     margin: 0 auto;  
-    min-height: 100vh;
-
+    
     background-color: rgb(255,255,255);
 }
+section{
+    min-height: 100vh;
+    border-bottom: 1px solid #f2f2f2;
 
-#root .element div {
-    display: inline;
-}
-#root.container .element strong {
-    display: block;
 }
