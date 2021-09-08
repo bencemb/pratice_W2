@@ -23,6 +23,30 @@ h1{
 
 nav{
     position: fixed;
+    top: 0;
+    left: 0;
+
+    z-index: 999;
+    
+    width: 100%;
+    height: 60px;
+
+
+    background-color: #999;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+nav ul li a{
+    padding: 5px;
+
+    text-decoration: none;
+    color:thistle;
+    text-transform: uppercase;
 }
 
 #welcome {
