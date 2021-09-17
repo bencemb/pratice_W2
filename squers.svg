@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.9 595.3">
+  <defs>
+    <style>
+      .a {
+        fill: #347fb8;
+      }
+
+      .a, .b {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+      }
+
+      .b {
+        fill: #44ad4d;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="a" x="58.8" y="96.1" width="281.9" height="226.85"/>
+    <rect class="b" x="91.7" y="19.6" width="216.1" height="197.32"/>
+  </g>
+</svg>
